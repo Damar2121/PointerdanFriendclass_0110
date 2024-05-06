@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="friendclassSatu.cpp" />
+    <ClCompile Include="friendfunctionSatu.cpp" />
     <ClCompile Include="pointer friend class.cpp" />
+    <ClCompile Include="pointerDua.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
